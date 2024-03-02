@@ -1,0 +1,19 @@
+.teddy h1{
+    color: yellow;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.teddy h2{
+    color: red;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.teddy {
+    background-color: gray;
+    height: 400px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
